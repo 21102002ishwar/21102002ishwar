@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @21102002ishwar
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...![Screenshot (13)](https://user-images.githubusercontent.com/110895842/183614881-993154fe-fbb7-4a4c-b62b-2c3d226fa401.png)
+- 🌱 I’m currently learning ...![Screenshot (12)](https://user-images.githubusercontent.com/110895842/183615503-178406bf-3c8c-4bb0-978d-14f489d5d6db.png)
+
 
 - 📫 How to reach me ...
 
